@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 1088fe10-6820-42f5-8e9a-245640a870b7)
+
+  (paper "A4")
+
+  (title_block
+    (title "ST7580 PLC")
+    (date "2023-06-10")
+    (rev "Ver. 1.0")
+    (company "Luscombe Engineering")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
